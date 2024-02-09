@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    background-color: aliceblue;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    color: black;
+    font-family: monospace;
+    font-size: 2rem;
+    font-weight: bold;
+}
+button{
+    background-color: blanchedalmond;
+    color: black;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 150px;
+    height: 33px;
+    font-family: 'Gill Sans';
+    font-size: 1em;
+    font-weight: 900;
+}
